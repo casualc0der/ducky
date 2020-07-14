@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/ducky/static/js/main.b2cfa87e.chunk.js",
+    "main.js.map": "/ducky/static/js/main.b2cfa87e.chunk.js.map",
+    "runtime-main.js": "/ducky/static/js/runtime-main.ffe6f35b.js",
+    "runtime-main.js.map": "/ducky/static/js/runtime-main.ffe6f35b.js.map",
+    "static/css/2.1d984fbf.chunk.css": "/ducky/static/css/2.1d984fbf.chunk.css",
+    "static/js/2.e35aad97.chunk.js": "/ducky/static/js/2.e35aad97.chunk.js",
+    "static/js/2.e35aad97.chunk.js.map": "/ducky/static/js/2.e35aad97.chunk.js.map",
+    "index.html": "/ducky/index.html",
+    "precache-manifest.5b70af4d93ac37ae3e76586f4047e305.js": "/ducky/precache-manifest.5b70af4d93ac37ae3e76586f4047e305.js",
+    "service-worker.js": "/ducky/service-worker.js",
+    "static/css/2.1d984fbf.chunk.css.map": "/ducky/static/css/2.1d984fbf.chunk.css.map",
+    "static/js/2.e35aad97.chunk.js.LICENSE.txt": "/ducky/static/js/2.e35aad97.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ffe6f35b.js",
+    "static/css/2.1d984fbf.chunk.css",
+    "static/js/2.e35aad97.chunk.js",
+    "static/js/main.b2cfa87e.chunk.js"
+  ]
+}
