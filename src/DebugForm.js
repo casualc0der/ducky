@@ -39,7 +39,7 @@ const DebugForm = () => {
     console.log(`Submitted: ${tag}`);
     const pepe = await axios
       .get(
-        `https://api.stackexchange.com/2.2/search?order=desc&sort=activity&tagged=${tag}&intitle=${words}&site=stackoverflow`
+        `https://api.stackexchange.com/2.2/search?site=stackoverflow&order=desc&sort=activity&tagged=${tag}&intitle=${words}`
       )
       .then((res) => {
         console.log(res.data.items);
